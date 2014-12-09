@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, WiFiDemo!</string>
+    <string name="app_name">WiFiDemo</string>
+    <string name="save">Save</string>
+    <string name="location">Location</string>
+</resources>
